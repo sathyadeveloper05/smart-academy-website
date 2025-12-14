@@ -1,1 +1,1 @@
-# smart-academy-website
+# st.josephschool-website
